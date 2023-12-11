@@ -1,6 +1,6 @@
 <h1>Travels</h1>
 
-🚀<h3>The provided HTML and CSS codes create a 
+🚀 <h3>The provided HTML and CSS codes create a 
 
 stylish and responsive travel website. Featuring a 
 
